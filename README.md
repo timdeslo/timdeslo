@@ -1,3 +1,5 @@
+![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
+
 ### Hi there 👋
 
 <!--
